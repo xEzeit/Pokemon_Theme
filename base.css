@@ -276,7 +276,7 @@ body::before {
     padding-top:0px !important;
 }
 .wordmark-2iDDfm:after {
-	content:'Aikkoh';
+	content:'Ezeit > Aikkoh car il redouble ;)';
 	position: absolute !important;
 	left: 5px;
 	width: 100vw;
@@ -289,7 +289,7 @@ body::before {
     box-shadow:inset 0 0 1000px rgba(0,0,0,0.35);
 }
 .da-winButtonMinMax:active {
-    background:rgba(255,255,255,0.15);
+    background:rgb(56, 15, 240);
 }
 .winButton-iRh8-Z:nth-child(3) svg {
 	display:none;
